@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Table of Contents
-* [About](#about-fitness-freaks)
-* [Project Walkthrough](#fitness-freaks-Video)
-* [Technologies](#technologies)
