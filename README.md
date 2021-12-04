@@ -18,8 +18,7 @@
 ![alt text ](https://img.shields.io/badge/BaaS-Heroku-430098?style=flat&logo=Heroku)
 ![alt text ](https://img.shields.io/badge/Software-Postman-FF6C37?style=flat&logo=Postman)
 ![alt text ](https://img.shields.io/badge/Software-Figma-F24E1E?style=flat&logo=Figma)
-
-
+![alt text ](https://img.shields.io/badge/DevOpsTool-Git-F24E1E?style=flat&logo=Git)
 
 <!--
 **jagsdep/jagsdep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,5 +33,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Hi there 👋
+
 -->
+
+ ## Work
+ 🔭 I’m currently working on Fitness Freaks Capstone Project
+ <br>
+ 🌱 I’m currently learning Data Solutions
+ <br>
+ 🤔 I’m looking for help with learning new skils 
+ <br>
+ ⚡ Fun fact: Anybody can code ✌️
+ 
+ 
