@@ -33,16 +33,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ![Flowers](https://github.com/jagsdep/jagsdep/blob/main/Images/ezgif.com-rotate.gif) 
 
 -->
 
- ## Work
+ ## Work 
+    
  🔭 I’m currently working on Fitness Freaks Capstone Project
  <br>
- 🌱 I’m currently learning Data Solutions
- <br>
+ 🌱 I’m currently learning Data Solutions                          
  🤔 I’m looking for help with learning new skils 
  <br>
  ⚡ Fun fact: Anybody can code ✌️
+ <br>
  
+ ![](https://github.com/jagsdep/jagsdep/blob/main/Images/ezgif.com-rotate.gif) 
  
