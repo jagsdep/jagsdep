@@ -1,12 +1,25 @@
-# Hello, folks! I'm Jagruti 👋 
-### An Aspiring Developer
- #### My life @ present 😀
- ![developer - Imgur](https://user-images.githubusercontent.com/33992538/144642661-a1e9de73-60bb-4c45-9f52-e53df5af5d17.png)
- <br>
+
+<h1 align="center">
+      Hello, folks! I'm Jagruti 👋 
+ </h1>
+ 
+
+ <h2 align="center">
+      An Aspiring Developer
+ </h2>
+ 
+ <p align="center">
+  <img width="500"  src="https://github.com/jagsdep/jagsdep/blob/main/Images/developer%20-%20Imgur.png">
+</p>
+  
+
  
  ## Languages and Tools
+ [<img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=JavaScript">](<https://www.javascript.com>)
+ [<img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=Python">](<https://www.python.org>)
+ 
 
-![alt text ](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=JavaScript)
+
 ![alt text ](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=Python)
 ![alt text ](https://img.shields.io/badge/Code-HTML-E34F26?style=flat&logo=HTML5)
 ![alt text ](https://img.shields.io/badge/Code-CSS-3776AB?style=flat&logo=CSS3)
@@ -24,6 +37,7 @@
 **jagsdep/jagsdep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+https://www.javascript.com
 
 - 🔭 I’m currently working on capstone project
 - 🌱 I’m currently learning Data Solutions
@@ -46,6 +60,9 @@ Here are some ideas to get you started:
  <br>
  ⚡ Fun fact: Anybody can code ✌️
  <br>
- 
- ![](https://github.com/jagsdep/jagsdep/blob/main/Images/ezgif.com-rotate.gif) 
+ <p align="center">
+  <img width="200"  src="https://github.com/jagsdep/jagsdep/blob/main/Images/ezgif.com-rotate.gif">
+</p>
+  
+
  
