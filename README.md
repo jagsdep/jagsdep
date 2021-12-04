@@ -45,6 +45,9 @@ https://www.javascript.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  ![Flowers](https://github.com/jagsdep/jagsdep/blob/main/Images/ezgif.com-rotate.gif) 
+ <p align="center">
+  <img width="200"  src="https://github.com/jagsdep/jagsdep/blob/main/Images/ezgif.com-rotate.gif">
+</p> for gif 
 
 -->
 
@@ -57,13 +60,14 @@ https://www.javascript.com
  <br>
  ⚡ Fun fact: Anybody can code ✌️
  <br>
- <p align="center">
-  <img width="200"  src="https://github.com/jagsdep/jagsdep/blob/main/Images/ezgif.com-rotate.gif">
-</p>
+ <br>
+ 
+![Jagruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagsdep&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagsdep&show_icons=true&theme=radical)](https://github.com/jagsdep/github-readme-stats)
 
-![Jagruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagsdep&show_icons=true&theme=radical)
+<br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagsdep&show_icons=true&theme=radical)](https://github.com/jagsdep/github-readme-stats)
+
 
   
 
